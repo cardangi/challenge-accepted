@@ -1,0 +1,16 @@
+.jumbotron{
+	box-shadow: 3px 3px 2px #888888;
+	border-radius:3px;
+}
+.form-control{
+position: absolute;
+  height: 11%;
+  width: 100%;
+background: url(images/icons/search.png) no-repeat scroll 95% 5px;
+margin-top:1px;
+}
+#logoprinc{
+position:inline-block;
+height: 25%;
+width: 25%;
+}
